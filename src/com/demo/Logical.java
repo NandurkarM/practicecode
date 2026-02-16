@@ -27,7 +27,7 @@ public class Logical {
 
 				ch1 = ch[i];
 				ch1 +=ch1;
-				System.out.println(ch1);
+				System.out.println("Character : "+ch1);
 			}
 
 			else {
